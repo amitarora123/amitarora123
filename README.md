@@ -50,8 +50,8 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amitarora123&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amitarora123&layout=compact&theme=tokyonight&hide_border=true" width="38%" />
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=amitarora123&show_icons=true&theme=tokyonight&hide_border=true" width="48%" /> 
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=amitarora123&layout=compact&theme=tokyonight&hide_border=true" width="38%" />
 </div>
 
 <br />
